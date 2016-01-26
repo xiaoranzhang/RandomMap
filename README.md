@@ -6,7 +6,7 @@ RandomMap 是一个可视化的随机数值模拟程序。
 通过turtle的随机值确定turtle的运动路径。
  ![image](https://github.com/xiaoranzhang/RandomMap/raw/master/re/3x.png)
 
-#"The world is an incidental space constructed with random pieces, and that's the true beauty of universe."
+#"The world is an incidental space constructed with random pieces, and that's true beauty of the universe."
 我很喜欢这段程序。：）
 世界上的一切都是由随机性组成的。
 所谓“天命”，就是指random。
